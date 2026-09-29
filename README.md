@@ -55,5 +55,4 @@ show up in the tools.
 
 ## Notes
 
-- Redpack IPC Toolkit 1.3.0 and later read this repo. 1.2.0 reads an older Gist, so bump that as
-  well while anyone is still on 1.2.0.
+- Redpack IPC Toolkit 1.3.0 and later read this repo. 1.2.0 reads an older Gist which points towards 1.3.0
